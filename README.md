@@ -1,2 +1,3 @@
 # Devils-Workshop
-This my repositary that iam gonna upload all the work that i have ever created or learned.
+This is an Text Analysis or Text Categorization code.
+Made with the help of google colab and Kaggle
